@@ -7,7 +7,7 @@ about=This plugin is designed to set the transparency of selected raster layers 
 A raster layer is an image-based dataset (like satellite imagery, DEMs, or scanned maps). Transparency (or opacity) allows you to see layers underneath.
 version=1.0
 qgisMinimumVersion=3.0
-author= Dimitra Pappa-Consortis Geospatial
+author= Dimitra Pappa
 email=pappa@consortis.gr
 homepage=https://github.com/Consortis-Geospatial
 tracker=https://github.com/dimitrapappa14/RasterTransparencySetter/issues
