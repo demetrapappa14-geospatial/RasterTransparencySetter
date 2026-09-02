@@ -92,8 +92,8 @@ The plugin uses **QMessageBox** to show feedback direcctly in Qgis :
 This plugin is released under the GPL-3.0 license.
 ---
 ## Support and Contribution
-- **Homepage**: [https://github.com/Consortis-Geospatial],(https://github.com/Consortis-Geospatial)
-- **Author**: Dimitra Pappa -Consortis Geospatial
-- **email**: pappa@consortis.gr
-- **Repository**: [https://github.com/Consortis-Geospatial/SnapIntegrator],(https://github.com/Consortis-Geospatial/SnapIntegrator)
-- **Issues Tracker**: [https://github.com/Consortis-Geospatial/SnapIntegrator],(https://github.com/Consortis-Geospatial//SnapIntegrator)
+- **Homepage**: [https://github.com/Consortis-Geospatial],([https://github.com/Consortis-Geospatial](https://github.com/demetrapappa14-geospatial/))
+- **Author**: Dimitra Pappa 
+- **email**: demetrapappa14@gmail.com
+- **Repository**: [[(https://github.com/demetrapappa14-geospatial/)](https://github.com/demetrapappa14-geospatial/SnapIntegrator],((https://github.com/demetrapappa14-geospatial)/SnapIntegrator)
+- **Issues Tracker**: [(https://github.com/Consortis-Geospatial//SnapIntegrator)
