@@ -8,10 +8,10 @@ A raster layer is an image-based dataset (like satellite imagery, DEMs, or scann
 version=1.0
 qgisMinimumVersion=3.0
 author= Dimitra Pappa
-email=pappa@consortis.gr
-homepage=https://github.com/Consortis-Geospatial
-tracker=https://github.com/dimitrapappa14/RasterTransparencySetter/issues
-repository=https://github.com/dimitrapappa14/RasterTransparencySetter 
+email=demetrapappa14@gmail.com
+homepage=https://github.com/demetrapappa14-geospatial/RasterTransparencySetter
+tracker=https://github.com/demetrapappa14-geospatial/RasterTransparencySetter/issues
+repository=https://github.com/demetrapappa14-geospatial/RasterTransparencySetter
 category=Analysis
 experimental=False
 deprecated=False
