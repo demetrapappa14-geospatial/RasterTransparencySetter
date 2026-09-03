@@ -185,8 +185,9 @@ The plugin uses **QMessageBox** to show feedback direcctly in Qgis :
 This plugin is released under the GPL-3.0 license.
 ---
 ## Support and Contribution
-- **Homepage**: (https://github.com/demetrapappa14-geospatial/))
-- **Author**: Dimitra Pappa 
-- **email**: demetrapappa14@gmail.com
-- **Repository**: [[(https://github.com/demetrapappa14-geospatial/)](https://github.com/demetrapappa14-geospatial/SnapIntegrator],((https://github.com/demetrapappa14-geospatial)/SnapIntegrator)
-- **Issues Tracker**: [([https://github.com/Consortis-Geospatial//SnapIntegrator](https://github.com/demetrapappa14-geospatial/SnapIntegrator))
+
+- **Homepage**: [https://github.com/demetrapappa14-geospatial/RasterTransparencySetter](https://github.com/demetrapappa14-geospatial/RasterTransparencySetter)
+- **Author**: Dimitra Pappa
+- **Email**: demetrapappa14@gmail.com
+- **Repository**: [https://github.com/demetrapappa14-geospatial/RasterTransparencySetter](https://github.com/demetrapappa14-geospatial/RasterTransparencySetter)
+- **Issues Tracker**: [https://github.com/demetrapappa14-geospatial/RasterTransparencySetter/issues](https://github.com/demetrapappa14-geospatial/RasterTransparencySetter/issues)
